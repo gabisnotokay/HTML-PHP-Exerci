@@ -1,0 +1,36 @@
+body{
+    margin: 0;    
+}
+
+nav{
+    background-color: BLACK;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;  
+}
+
+nav .logo{
+    margin: auto; 
+    display: block;
+    width: 500px;
+    height: 250px;
+}
+
+nav .linha{
+    margin: auto; 
+    display: block;
+    width: 600px;
+    height: 0px;
+}
+
+nav a{
+    margin: 27px;
+    width: 20px;
+    color: white;
+    float: left;
+    text-decoration: none;
+    display: block;
+    padding: 50px 20px;
+    font-family:'Consolas';
+}
+

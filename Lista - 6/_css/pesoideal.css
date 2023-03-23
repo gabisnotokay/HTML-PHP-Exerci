@@ -1,0 +1,13 @@
+@charset "UFT-8";
+
+fieldset#f1 {
+    margin: 20px;
+    width: 353px;
+    text-align: left;
+}   
+
+fieldset#f2 {   
+    margin: 20px;
+    width: 353px;
+    text-align: left;
+}
